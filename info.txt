@@ -1,0 +1,5 @@
+Forcasting Problems:
+	Predicting Sales ~ Retail, E-commerce
+	Predicting Air Ticket Prices ~ Airline, Aviation 
+Recommendation Problems:
+	Recommending products ~ E-commerce
